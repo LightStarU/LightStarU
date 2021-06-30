@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 <h1 align="center">Hi there 👋, I'm Ujjval Tandel</h1>
-<h3 align="center">Undergraduate Computer Science Student</h3>
+<h3 align="center">Computer Science Student</h3>
 
 <!--
 **LightStarU/LightStarU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
